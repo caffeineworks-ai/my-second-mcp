@@ -27,6 +27,11 @@
 - [MCP Service](https://halo-typica-918.workers.dev/mcp)
 - [Project Page](https://caffeineworks-ai.github.io/halo/)
 
+### Lumei
+- [GitHub Repository](https://github.com/caffeineworks-ai/lumei-lamp)
+- [MCP Service](https://lumei-lamp.typica-918.workers.dev/mcp)
+- [Project Page](https://caffeineworks-ai.github.io/lumei-lamp/)
+
 ### ☁️ Worcloud
 - [GitHub Repository](https://github.com/caffeineworks-ai/wordcloud-mcp)
 - [MCP Service](https://wordcloud-mcp.typica-918.workers.dev/mcp)
